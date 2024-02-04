@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mcreator.mythicalweapons.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MythicalWeaponsModRepairItemRecipeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mythical_weapons.refmap.json"
+}
